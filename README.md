@@ -15,11 +15,11 @@
 
 ###
 
-<h3 align="left">Sore</h3>
+<h3 align="left">Sobre mim</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"> Sou do brasil🥚<br><br>- 🔭 Sou estuante de ODS ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
